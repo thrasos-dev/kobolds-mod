@@ -1,0 +1,16 @@
+{
+  "category.myth_kobolds": "Мітичні моби: Кобольди",
+  "entity.myth_kobolds.kobold": "Кобольд",
+  "entity.myth_kobolds.kobold_warrior": "Воїн-кобольд",
+  "item.myth_kobolds.kobold_spawn_egg": "Яйце виклику кобольда",
+  "item.myth_kobolds.kobold_warrior_spawn_egg": "Яйце виклику воїна-кобольда",
+  "item.myth_kobolds.kobold_spear": "Спис кобольда",
+  "config.screen.myth_kobolds": "Параметри мітичних моб: Кобольди",
+  "config.myth_kobolds.option.koboldHealth": "Здоров'я кобольда",
+  "config.myth_kobolds.option.koboldAttackDamage": "Шкода від атаки кобольда",
+  "config.myth_kobolds.option.koboldSpawnWeight": "Вага появи кобольда",
+  "config.myth_kobolds.option.shouldKoboldsSteal": "Should Kobolds Steal",
+  "config.myth_kobolds.option.koboldWarriorHealth": "Здоров'я воїна-кобольда",
+  "config.myth_kobolds.option.koboldWarriorAttackDamage": "Шкода від атаки воїна-кобольда",
+  "config.myth_kobolds.option.koboldWarriorSpawnWeight": "Вага появи воїна-кобольда"
+}

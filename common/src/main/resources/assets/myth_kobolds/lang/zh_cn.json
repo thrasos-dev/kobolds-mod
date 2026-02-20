@@ -1,0 +1,16 @@
+{
+  "category.myth_kobolds": "神话生物: 狗头人",
+  "entity.myth_kobolds.kobold": "狗头人",
+  "entity.myth_kobolds.kobold_warrior": "狗头人战士",
+  "item.myth_kobolds.kobold_spawn_egg": "狗头人刷怪蛋",
+  "item.myth_kobolds.kobold_warrior_spawn_egg": "狗头人战士刷怪蛋",
+  "item.myth_kobolds.kobold_spear": "狗头人矛",
+  "config.screen.myth_kobolds": "神话生物: 狗头人配置",
+  "config.myth_kobolds.option.koboldHealth": "狗头人生命值",
+  "config.myth_kobolds.option.koboldAttackDamage": "狗头人攻击伤害",
+  "config.myth_kobolds.option.koboldSpawnWeight": "狗头人生成权重",
+  "config.myth_kobolds.option.shouldKoboldsSteal": "Should Kobolds Steal",
+  "config.myth_kobolds.option.koboldWarriorHealth": "狗头人战士生命值",
+  "config.myth_kobolds.option.koboldWarriorAttackDamage": "狗头人战士攻击伤害",
+  "config.myth_kobolds.option.koboldWarriorSpawnWeight": "狗头人战士生成权重"
+}

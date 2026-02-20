@@ -1,0 +1,42 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "GPL-3.0"
+
+[[mods]]
+logoFile = "icon.png"
+modId = "myth_kobolds"
+version = "${version}"
+displayName = "Mobs of Mythology: Kobolds"
+authors = "kyber-6"
+description = '''
+Kobolds from Mobs of Mythology
+'''
+
+[[dependencies.myth_kobolds]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.myth_kobolds]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.myth_kobolds]]
+modId = "architectury"
+type = "required"
+versionRange = "[13.0.8,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.myth_kobolds]]
+modId = "azurelib"
+type = "required"
+versionRange = "[2.3.0,)"
+ordering = "NONE"
+side = "BOTH"
+

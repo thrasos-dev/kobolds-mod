@@ -1,0 +1,16 @@
+{
+  "category.myth_kobolds": "Mobs of Mythology: Kobolds",
+  "entity.myth_kobolds.kobold": "Kobold",
+  "entity.myth_kobolds.kobold_warrior": "Guerreiro Kobold",
+  "item.myth_kobolds.kobold_spawn_egg": "Ovo Gerador de Kobold",
+  "item.myth_kobolds.kobold_warrior_spawn_egg": "Ovo Gerador de Guerreiro Kobold",
+  "item.myth_kobolds.kobold_spear": "Lança Kobold",
+  "config.screen.myth_kobolds": "Opções do Mobs of Mythology: Kobolds",
+  "config.myth_kobolds.option.koboldHealth": "Vida do Kobold",
+  "config.myth_kobolds.option.koboldAttackDamage": "Dano de Ataque do Kobold",
+  "config.myth_kobolds.option.koboldSpawnWeight": "Taxa de Geração do Kobold",
+  "config.myth_kobolds.option.shouldKoboldsSteal": "Kobolds Devem Roubar",
+  "config.myth_kobolds.option.koboldWarriorHealth": "Vida do Guerreiro Kobold",
+  "config.myth_kobolds.option.koboldWarriorAttackDamage": "Dano de Ataque do Guerreiro Kobold",
+  "config.myth_kobolds.option.koboldWarriorSpawnWeight": "Taxa de Geração do Guerreiro Kobold"
+}

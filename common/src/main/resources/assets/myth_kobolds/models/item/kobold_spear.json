@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "myth_kobolds:item/kobold_spear"
+  }
+}

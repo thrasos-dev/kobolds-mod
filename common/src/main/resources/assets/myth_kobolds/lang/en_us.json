@@ -1,0 +1,16 @@
+{
+  "category.myth_kobolds": "Mobs of Mythology: Kobolds",
+  "entity.myth_kobolds.kobold": "Kobold",
+  "entity.myth_kobolds.kobold_warrior": "Kobold Warrior",
+  "item.myth_kobolds.kobold_spawn_egg": "Kobold Spawn Egg",
+  "item.myth_kobolds.kobold_warrior_spawn_egg": "Kobold Warrior Spawn Egg",
+  "item.myth_kobolds.kobold_spear": "Kobold Spear",
+  "config.screen.myth_kobolds": "Mobs of Mythology: Kobolds Config",
+  "config.myth_kobolds.option.koboldHealth": "Kobold Health",
+  "config.myth_kobolds.option.koboldAttackDamage": "Kobold Attack Damage",
+  "config.myth_kobolds.option.koboldSpawnWeight": "Kobold Spawn Weight",
+  "config.myth_kobolds.option.shouldKoboldsSteal": "Should Kobolds Steal",
+  "config.myth_kobolds.option.koboldWarriorHealth": "Kobold Warrior Health",
+  "config.myth_kobolds.option.koboldWarriorAttackDamage": "Kobold Warrior Attack Damage",
+  "config.myth_kobolds.option.koboldWarriorSpawnWeight": "Kobold Warrior Spawn Weight"
+}

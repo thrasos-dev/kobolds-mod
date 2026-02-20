@@ -1,0 +1,16 @@
+{
+  "category.myth_kobolds": "Mobs of Mythology: Kobolds",
+  "entity.myth_kobolds.kobold": "Καλικάντζαρος",
+  "entity.myth_kobolds.kobold_warrior": "Καλικάντζαρος Πολεμιστής",
+  "item.myth_kobolds.kobold_spawn_egg": "Αυγό Γέννησης Καλικάντζαρου",
+  "item.myth_kobolds.kobold_warrior_spawn_egg": "Αυγό Γέννησης Καλικάντζαρου Πολεμιστή",
+  "item.myth_kobolds.kobold_spear": "Ακόντιο Καλικάντζαρου",
+  "config.screen.myth_kobolds": "Ρυθμίσεις Mobs of Mythology: Kobolds",
+  "config.myth_kobolds.option.koboldHealth": "Ζωή Καλικάντζαρου",
+  "config.myth_kobolds.option.koboldAttackDamage": "Δύναμη Καλικάντζαρου",
+  "config.myth_kobolds.option.koboldSpawnWeight": "Ρυθμός Γέννησης Καλικάντζαρου",
+  "config.myth_kobolds.option.shouldKoboldsSteal": "Should Kobolds Steal",
+  "config.myth_kobolds.option.koboldWarriorHealth": "Ζωή Καλικάντζαρου Πολεμιστή",
+  "config.myth_kobolds.option.koboldWarriorAttackDamage": "Δύναμη Καλικάντζαρου Πολεμιστή",
+  "config.myth_kobolds.option.koboldWarriorSpawnWeight": "Ρυθμός Γέννησης Καλικάντζαρου Πολεμιστή"
+}

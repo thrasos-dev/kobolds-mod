@@ -1,0 +1,16 @@
+{
+  "category.myth_kobolds": "Mobs of Mythology: Kobolds",
+  "entity.myth_kobolds.kobold": "Kobold",
+  "entity.myth_kobolds.kobold_warrior": "Chiến binh Kobold",
+  "item.myth_kobolds.kobold_spawn_egg": "Trứng Kobold",
+  "item.myth_kobolds.kobold_warrior_spawn_egg": "Trứng chiến binh Kobold",
+  "item.myth_kobolds.kobold_spear": "Giáo Kobold",
+  "config.screen.myth_kobolds": "Tùy chọn Mobs of Mythology: Kobolds",
+  "config.myth_kobolds.option.koboldHealth": "Máu của Kobold",
+  "config.myth_kobolds.option.koboldAttackDamage": "Sát thương của Kobold",
+  "config.myth_kobolds.option.koboldSpawnWeight": "Tần suất xuất hiện của Kobold",
+  "config.myth_kobolds.option.shouldKoboldsSteal": "Should Kobolds Steal",
+  "config.myth_kobolds.option.koboldWarriorHealth": "Máu của chiến binh Kobold",
+  "config.myth_kobolds.option.koboldWarriorAttackDamage": "Sát thương của chiến binh Kobold",
+  "config.myth_kobolds.option.koboldWarriorSpawnWeight": "Tần suất xuất hiện của chiến binh Kobold"
+}
